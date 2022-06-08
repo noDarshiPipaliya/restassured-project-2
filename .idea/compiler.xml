@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="rest-api-rest-ful-booker" />
+        <module name="Week-17-rest-api-ful-booker" />
       </profile>
     </annotationProcessing>
   </component>
